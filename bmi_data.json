@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2025-03-21",
+        "weight": 75.0,
+        "height": 1.8,
+        "bmi": 23.15,
+        "username": "teo1"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 80.0,
+        "height": 1.8,
+        "bmi": 24.69,
+        "username": "teo1"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 60.0,
+        "height": 1.7,
+        "bmi": 20.76,
+        "username": "teo1"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 80.0,
+        "height": 1.9,
+        "bmi": 22.16,
+        "username": "teo"
+    }
+]
