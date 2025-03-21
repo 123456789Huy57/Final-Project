@@ -232,7 +232,7 @@ class ClientWindowEXT(Ui_MainWindow):
             self.update_graph()
 
     def process_advice(self):
-        path = "C:/Users/Admin/PycharmProjects/KTLT_K24411E/FinalProject/dataset/camnang.pdf"
+        path = r"D:\PTB1\FinalProject\dataset\camnang.pdf"
         webbrowser.open_new(path)
 
     def process_return_to_login_client(self):
